@@ -1,0 +1,23 @@
+* [33mcommit 1b5add8e0e2d033f356e64bfe869140bd7282255[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m
+[31m|[m Author: LeQuangHuy <lequanghuynbk@gmail.com>
+[31m|[m Date:   Tue Oct 3 10:33:47 2023 +0300
+[31m|[m 
+[31m|[m     added having a nice day wish
+[31m|[m   
+[31m|[m * [33mcommit 87731c5c0ad995db31c7658d486699e51dc834e0[m[33m ([m[1;32mstudent[m[33m)[m
+[31m|[m [32m|[m Author: LeQuangHuy <lequanghuynbk@gmail.com>
+[31m|[m [32m|[m Date:   Tue Oct 3 10:23:41 2023 +0300
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     added greeting Git info
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit d46a4cc0df8a56f5b7b0cf90d620e6826a6d2872[m
+[31m|[m[31m/[m  Author: LeQuangHuy <lequanghuynbk@gmail.com>
+[31m|[m   Date:   Tue Oct 3 10:19:15 2023 +0300
+[31m|[m   
+[31m|[m       added student name input
+[31m|[m 
+* [33mcommit 941bb1b0809d92a8ffc88fe1fd0e2cb82945554f[m[33m ([m[1;32mmaster[m[33m)[m
+  Author: LeQuangHuy <lequanghuynbk@gmail.com>
+  Date:   Tue Oct 3 10:13:00 2023 +0300
+  
+      init
